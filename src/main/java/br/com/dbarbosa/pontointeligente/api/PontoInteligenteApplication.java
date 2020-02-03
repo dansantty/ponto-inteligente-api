@@ -1,4 +1,4 @@
- package br.com.example.pontointeligente.api;
+ package br.com.dbarbosa.pontointeligente.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
