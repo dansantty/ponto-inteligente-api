@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 language: java
 jdk:
   - openjdk8
+=======
+language: java
+jdk:
+  - jdk8
+>>>>>>> 79aeec3cfcbb73f411df7d893da01c7793918ea2
